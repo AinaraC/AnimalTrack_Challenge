@@ -1,0 +1,6 @@
+AnimalTrack/
+ultralytics_dataset/
+runs/
+*.pt
+*.pdf
+__pycache__/
